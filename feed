@@ -1,0 +1,301 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-05-20 12:00">
+    <shop>
+        <name>SUNLIGHT - Рекламная кампания "Академия Бриллиантов"</name>
+        <company>ООО «ОНИКС ТРЕЙДИНГ»</company>
+        <url>https://sunlight.net/</url>
+        <currencies>
+            <currency id="RUR"/>
+        </currencies>
+        <categories>
+            <category id="5">Кольца</category>
+        </categories>
+        <offers>
+
+            <!-- ================= КАРАТНОСТЬ 0,5 ================= -->
+
+            <offer id="349462" available="true">
+                <url>https://sunlight.net/catalog/ring_349462.html</url>
+                <price>109004</price>
+                <oldprice>134990</oldprice>
+                <name>Золотое кольцо с бриллиантом 0,5 карат и сапфирами</name>
+                <currencyId>RUR</currencyId>
+                <categoryId>5</categoryId>
+                <vendor>Академия Бриллиантов</vendor>
+                <model>73277-K5W-01</model>
+                <param name="Материал">золото</param>
+                <param name="Тип золота">белое</param>
+                <param name="Проба золота">585</param>
+                <param name="Вставка">бриллиант природный, сапфир природный</param>
+                <param name="Каратность бриллианта">0.5</param>
+                <picture>https://g1.sunlight.net/r/w770/q85/media/products/f4e41fa5864165b32106a757a6b9e7602c2bfc2c.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <pickup>true</pickup>
+                <description>Золотое кольцо 585 пробы с бриллиантами и сапфирами.</description>
+                <sales_notes>Бесплатная доставка</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+            </offer>
+
+            <offer id="399782" available="true">
+                <url>https://sunlight.net/catalog/ring_399782.html</url>
+                <price>30232</price>
+                <oldprice>41990</oldprice>
+                <name>Золотое кольцо с бриллиантом 0,5 карат и танзанитом</name>
+                <currencyId>RUR</currencyId>
+                <categoryId>5</categoryId>
+                <vendor>Академия Бриллиантов</vendor>
+                <model>75662-K5R-01</model>
+                <param name="Материал">золото</param>
+                <param name="Тип золота">розовое</param>
+                <param name="Проба золота">585</param>
+                <param name="Вставка">бриллиант природный, танзанит природный</param>
+                <param name="Каратность бриллианта">0.5</param>
+                <picture>https://g7.sunlight.net/r/w770/q85/media/products/7b0beb92-c9ca-11f0-b6d2-005056bccafe.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <pickup>true</pickup>
+                <description>Кольцо с 1 танзанитом природным и бриллиантами. Розовое золото 585 пробы.</description>
+                <sales_notes>Бесплатная доставка</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+            </offer>
+
+            <offer id="399349" available="true">
+                <url>https://sunlight.net/catalog/ring_399349.html</url>
+                <price>21592</price>
+                <oldprice>29990</oldprice>
+                <name>Золотое кольцо с бриллиантом 0,5 карат в форме сердца</name>
+                <currencyId>RUR</currencyId>
+                <categoryId>5</categoryId>
+                <vendor>Академия Бриллиантов</vendor>
+                <model>75629-K5R-01</model>
+                <param name="Материал">золото</param>
+                <param name="Тип золота">розовое</param>
+                <param name="Проба золота">585</param>
+                <param name="Вставка">бриллиант природный</param>
+                <param name="Каратность бриллианта">0.5</param>
+                <picture>https://g2.sunlight.net/r/w770/q85/media/products/9264ef34-c38e-11f0-b6ca-005056bccafe.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <pickup>true</pickup>
+                <description>Элегантное кольцо с бриллиантами в форме сердца. Розовое золото 585 пробы.</description>
+                <sales_notes>Бесплатная доставка</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+            </offer>
+
+            <!-- ================= КАРАТНОСТЬ 1 ================= -->
+
+            <offer id="345314" available="true">
+                <url>https://sunlight.net/catalog/ring_345314.html</url>
+                <price>761991</price>
+                <oldprice>979990</oldprice>
+                <name>Золотое кольцо с бриллиантом 1 карат премиум-класса</name>
+                <currencyId>RUR</currencyId>
+                <categoryId>5</categoryId>
+                <vendor>Академия Бриллиантов</vendor>
+                <model>72861-K5W-01</model>
+                <param name="Материал">золото</param>
+                <param name="Тип золота">белое</param>
+                <param name="Проба золота">585</param>
+                <param name="Вставка">бриллиант природный</param>
+                <param name="Каратность бриллианта">1</param>
+                <picture>https://g4.sunlight.net/r/w770/q85/media/products/9b35d99709bc4b2287ec6b713e9342ac99564df1.jpg</picture>
+                <store>true</store>
+                <delivery>false</delivery>
+                <pickup>true</pickup>
+                <description>Роскошное кольцо с бриллиантом 1.01 карат. Белое золото 585 пробы.</description>
+                <sales_notes>Бесплатная доставка</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+            </offer>
+
+            <offer id="399741" available="true">
+                <url>https://sunlight.net/catalog/ring_399741.html</url>
+                <price>549091</price>
+                <oldprice>679990</oldprice>
+                <name>Золотое кольцо с бриллиантом 1 карат и изумрудом</name>
+                <currencyId>RUR</currencyId>
+                <categoryId>5</categoryId>
+                <vendor>Академия Бриллиантов</vendor>
+                <model>75730-K5W-01</model>
+                <param name="Материал">золото</param>
+                <param name="Тип золота">белое</param>
+                <param name="Проба золота">585</param>
+                <param name="Вставка">бриллиант природный, изумруд природный</param>
+                <param name="Каратность бриллианта">1</param>
+                <picture>https://g5.sunlight.net/r/w770/q85/media/products/b826b205bfc03da469bdd8de36b4ce2c78d528cd.jpg</picture>
+                <store>true</store>
+                <delivery>false</delivery>
+                <pickup>true</pickup>
+                <description>Кольцо с бриллиантами и изумрудом. Сочетание белого золота и драгоценных камней.</description>
+                <sales_notes>Бесплатная доставка</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+            </offer>
+
+            <offer id="341176" available="true">
+                <url>https://sunlight.net/catalog/ring_341176.html</url>
+                <price>81832</price>
+                <oldprice>109990</oldprice>
+                <name>Золотое кольцо с бриллиантом 1 карат и сапфирами</name>
+                <currencyId>RUR</currencyId>
+                <categoryId>5</categoryId>
+                <vendor>Академия Бриллиантов</vendor>
+                <model>73111-K5R-01</model>
+                <param name="Материал">золото</param>
+                <param name="Тип золота">розовое</param>
+                <param name="Проба золота">585</param>
+                <param name="Вставка">бриллиант природный, сапфир природный</param>
+                <param name="Каратность бриллианта">1</param>
+                <picture>https://g0.sunlight.net/r/w770/q85/media/products/5c39706f61bca460ccac9b5ed0fd24b7bf4ca68d.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <pickup>true</pickup>
+                <description>Изысканное кольцо с сапфиром и бриллиантами в розовом золоте.</description>
+                <sales_notes>Бесплатная доставка</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+            </offer>
+
+            <!-- ================= КАРАТНОСТЬ 2 ================= -->
+
+            <offer id="341177" available="true">
+                <url>https://sunlight.net/catalog/ring_341177.html</url>
+                <price>74392</price>
+                <oldprice>99990</oldprice>
+                <name>Золотое кольцо с бриллиантом 2 карат и рубином</name>
+                <currencyId>RUR</currencyId>
+                <categoryId>5</categoryId>
+                <vendor>Академия Бриллиантов</vendor>
+                <model>73111-K5R-02</model>
+                <param name="Материал">золото</param>
+                <param name="Тип золота">розовое</param>
+                <param name="Проба золота">585</param>
+                <param name="Вставка">бриллиант природный, рубин природный</param>
+                <param name="Каратность бриллианта">2</param>
+                <picture>https://g5.sunlight.net/r/w770/q85/media/products/aeda8da7215edf1fe0da99b1cd4a03dff0f9c7b2.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <pickup>true</pickup>
+                <description>Кольцо с рубином и бриллиантами в розовом золоте.</description>
+                <sales_notes>Бесплатная доставка</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+            </offer>
+
+            <offer id="407897" available="true">
+                <url>https://sunlight.net/catalog/ring_407897.html</url>
+                <price>78112</price>
+                <oldprice>104990</oldprice>
+                <name>Золотое кольцо с бриллиантом 2 карат выращенным</name>
+                <currencyId>RUR</currencyId>
+                <categoryId>5</categoryId>
+                <vendor>Cold Diamonds</vendor>
+                <model>L76019-K5Y-01</model>
+                <param name="Материал">золото</param>
+                <param name="Тип золота">желтое</param>
+                <param name="Проба золота">585</param>
+                <param name="Вставка">бриллиант выращенный</param>
+                <param name="Каратность бриллианта">2</param>
+                <picture>https://g7.sunlight.net/r/w770/q85/media/products/654b53fb-1604-11f1-b733-005056bccafe.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <pickup>true</pickup>
+                <description>Кольцо с выращенным бриллиантом 2.08 карат. Желтое золото 585 пробы.</description>
+                <sales_notes>Бесплатная доставка</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+            </offer>
+
+            <offer id="341178" available="true">
+                <url>https://sunlight.net/catalog/ring_341178.html</url>
+                <price>66232</price>
+                <oldprice>91990</oldprice>
+                <name>Золотое кольцо с бриллиантом 2 карат и изумрудом</name>
+                <currencyId>RUR</currencyId>
+                <categoryId>5</categoryId>
+                <vendor>Академия Бриллиантов</vendor>
+                <model>73143-K5R-01</model>
+                <param name="Материал">золото</param>
+                <param name="Тип золота">розовое</param>
+                <param name="Проба золота">585</param>
+                <param name="Вставка">бриллиант природный, изумруд природный</param>
+                <param name="Каратность бриллианта">2</param>
+                <picture>https://g4.sunlight.net/r/w770/q85/media/products/7fa54135d7eeacde7b2cb8f9f76e0657c5bbd3b9.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <pickup>true</pickup>
+                <description>Подарочное кольцо с изумрудом и бриллиантами в розовом золоте.</description>
+                <sales_notes>Бесплатная доставка</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+            </offer>
+
+            <!-- ================= КАРАТНОСТЬ 3 ================= -->
+
+            <offer id="341179" available="true">
+                <url>https://sunlight.net/catalog/earring_341179.html</url>
+                <price>148792</price>
+                <oldprice>199990</oldprice>
+                <name>Золотое кольцо с бриллиантом 3 карат и сапфирами</name>
+                <currencyId>RUR</currencyId>
+                <categoryId>5</categoryId>
+                <vendor>Академия Бриллиантов</vendor>
+                <model>73111-C5R-01</model>
+                <param name="Материал">золото</param>
+                <param name="Тип золота">розовое</param>
+                <param name="Проба золота">585</param>
+                <param name="Вставка">бриллиант природный, сапфир природный</param>
+                <param name="Каратность бриллианта">3</param>
+                <picture>https://g8.sunlight.net/r/w770/q85/media/products/1e07af7bd1ca03391696632e0a7fc1ebfff6bff4.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <pickup>true</pickup>
+                <description>Эксклюзивное кольцо с сапфирами и бриллиантами. Идеально для торжественного случая.</description>
+                <sales_notes>Бесплатная доставка</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+            </offer>
+
+            <offer id="341180" available="true">
+                <url>https://sunlight.net/catalog/earring_341180.html</url>
+                <price>148192</price>
+                <oldprice>194990</oldprice>
+                <name>Золотое кольцо с бриллиантом 3 карат и рубином</name>
+                <currencyId>RUR</currencyId>
+                <categoryId>5</categoryId>
+                <vendor>Академия Бриллиантов</vendor>
+                <model>73111-C5R-02</model>
+                <param name="Материал">золото</param>
+                <param name="Тип золота">розовое</param>
+                <param name="Проба золота">585</param>
+                <param name="Вставка">бриллиант природный, рубин природный</param>
+                <param name="Каратность бриллианта">3</param>
+                <picture>https://g2.sunlight.net/r/w770/q85/media/products/6d1f5a67976a0c7088db1ba3cbd97145da5cb290.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <pickup>true</pickup>
+                <description>Кольцо с рубинами и бриллиантами в розовом золоте.</description>
+                <sales_notes>Бесплатная доставка</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+            </offer>
+
+            <offer id="341181" available="true">
+                <url>https://sunlight.net/catalog/earring_341181.html</url>
+                <price>143992</price>
+                <oldprice>199990</oldprice>
+                <name>Золотое кольцо с бриллиантом 3 карат и изумрудом</name>
+                <currencyId>RUR</currencyId>
+                <categoryId>5</categoryId>
+                <vendor>Академия Бриллиантов</vendor>
+                <model>73143-C5R-01</model>
+                <param name="Материал">золото</param>
+                <param name="Тип золота">розовое</param>
+                <param name="Проба золота">585</param>
+                <param name="Вставка">бриллиант природный, изумруд природный</param>
+                <param name="Каратность бриллианта">3</param>
+                <picture>https://g8.sunlight.net/r/w770/q85/media/products/1c4c65a640d417d937f97b764b1b926d097538d6.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <pickup>true</pickup>
+                <description>Изысканное колье-кольцо с изумрудами и бриллиантами.</description>
+                <sales_notes>Бесплатная доставка</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+            </offer>
+
+        </offers>
+    </shop>
+</yml_catalog>
